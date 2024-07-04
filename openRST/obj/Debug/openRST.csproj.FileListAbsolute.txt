@@ -1,0 +1,35 @@
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\obj\Debug\openRST.csprojResolveAssemblyReference.cache
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\obj\Debug\openRST.MainForm.resources
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\obj\Debug\openRST.csproj.GenerateResource.Cache
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\bin\Debug\openRST.exe
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\bin\Debug\openRST.pdb
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\obj\Debug\openRST.exe
+D:\Mis documentos 2020\SharpDevelop Projects\openRST\openRST\obj\Debug\openRST.pdb
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\bin\Debug\openRST.exe
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\bin\Debug\openRST.pdb
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.MainForm.resources
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.exe
+C:\Users\alumno\Documents\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.pdb
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\bin\Debug\openRST.exe
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\bin\Debug\openRST.pdb
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.csprojResolveAssemblyReference.cache
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.MainForm.resources
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.csproj.GenerateResource.Cache
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.exe
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTVecinos\openRST\openRST\obj\Debug\openRST.pdb
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\bin\Debug\openRST.exe
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\bin\Debug\openRST.pdb
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\obj\Debug\openRST.csprojResolveAssemblyReference.cache
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\obj\Debug\openRST.MainForm.resources
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\obj\Debug\openRST.csproj.GenerateResource.Cache
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\obj\Debug\openRST.exe
+D:\Mis documentos 2020\SharpDevelop Projects\openRSTConteoContenido\openRSTVecinos\openRST\openRST\obj\Debug\openRST.pdb
+D:\Descargas 2020\proyectos\openRST\openRST\bin\Debug\openRST.exe
+D:\Descargas 2020\proyectos\openRST\openRST\bin\Debug\openRST.pdb
+D:\Descargas 2020\proyectos\openRST\openRST\obj\Debug\openRST.csprojResolveAssemblyReference.cache
+D:\Descargas 2020\proyectos\openRST\openRST\obj\Debug\openRST.MainForm.resources
+D:\Descargas 2020\proyectos\openRST\openRST\obj\Debug\openRST.csproj.GenerateResource.Cache
+D:\Descargas 2020\proyectos\openRST\openRST\obj\Debug\openRST.exe
+D:\Descargas 2020\proyectos\openRST\openRST\obj\Debug\openRST.pdb
